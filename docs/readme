@@ -1,0 +1,14 @@
+<!DOCKTYPE html>
+<html>
+<body>
+<h1>Read Me</h1>
+<p>Repository Name:  RE
+Work in branch RE-dev.
+
+This runs a simple server.
+
+Run the application (go run main.go) and open http://localhost.8080 in your browser to make sure it is running
+
+Unable to access localhost?  The ISP you're on may be blocking port 8080.</p>
+</body>
+</html>
